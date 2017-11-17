@@ -1,4 +1,5 @@
 ![repo-banner](https://user-images.githubusercontent.com/4060187/32896325-bff4a758-cab0-11e7-8cf5-62759e13fa6b.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Freact-fns.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Freact-fns?ref=badge_shield)
 
 
 
@@ -391,3 +392,7 @@ See https://developer.mozilla.org/en-US/docs/WebAPI for the full list
 ## Author
 
 - Jared Palmer [@jaredpalmer](https://twitter.com/jaredpalmer)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Freact-fns.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Freact-fns?ref=badge_large)
